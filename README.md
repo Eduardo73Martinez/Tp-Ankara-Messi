@@ -4,7 +4,7 @@
 
 - Acosta Matias
 - Gallippi Brian
-- Martinez Eduardo
+- [Martinez Eduardo](Martin61Martinez)
 - Garcia Reyna Ignacio
 
 ## Capturas
