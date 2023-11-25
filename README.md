@@ -43,5 +43,4 @@ Botones:
 - Universidad Nacional De Quilmes | Programacion con objetos I
 - Wollok Version 3.0.0
 - Una vez terminado, no tenemos problemas en que el repositorio sea público / queremos manternerlo privado
-# Tp-Ankara-Messi
-# Tp-Ankara-Messi
+
